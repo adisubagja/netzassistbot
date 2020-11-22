@@ -9,7 +9,7 @@ Hai {}, nama Aku {}! Aku seorang manajer grup yang dikelola oleh [Tuan saya](t.m
 Anda dapat menemukan daftar perintah yang tersedia dengan /help.
 """,
 	"help_text": """
-Hai! Aku adalah netzassistWatcher.
+Hai! Aku adalah netzassistbot.
 Aku adalah bot manajemen grup dengan beberapa kelebihan yang menyenangkan! Silahkan lihat berikut ini untuk beberapa ide dari \
 hal-hal yang bisa Aku bantu.
 
@@ -83,7 +83,7 @@ Ketika ditandai sebagai AFK, sebutan apa pun akan dibalas dengan pesan untuk men
 	"backups_help": """
 *Hanya admin:*
  - /import: balas ke file cadangan grup butler/marie/rose/emilia/fortizer untuk mengimpor sebanyak mungkin, membuat transfer menjadi sangat mudah! \
- Catatan bahwa file/foto tidak dapat diimpor karena pembatasan telegram. Kecuali backup dari netzassistWatcher.
+ Catatan bahwa file/foto tidak dapat diimpor karena pembatasan telegram. Kecuali backup dari netzassistbot.
  - /export: export data grup, bisa di lakukan setiap waktu.
 """,
 	"bans_help": """

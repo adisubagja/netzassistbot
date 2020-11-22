@@ -38,7 +38,7 @@ Hi {}, my name is {}! I am a group manager managed by [my master](t.me/fortifyin
 You can find the list of available commands with /help.
 """,
 	"help_text": """
-Hey! My name is netzassistWatcher. I am a group management bot, here to help you get around and keep the order in your groups!
+Hey! My name is netzassistbot. I am a group management bot, here to help you get around and keep the order in your groups!
 I have lots of handy features, such as flood control, a warning system, a note keeping system, and even predetermined replies on certain keywords.
 
 *Main commands available:*
@@ -337,7 +337,7 @@ When marked as AFK, any mentions will be replied to with a message to say you're
 	"backups_help": """
 *Admin only:*
  - /import: reply to a group butler/marie/rose/emilia/netzassist backup file to import as much as possible, making the transfer super simple!
-Note that files/photos from other bots can't be imported due to telegram restrictions. Except for netzassistWatcher backup it self.
+Note that files/photos from other bots can't be imported due to telegram restrictions. Except for netzassistbot backup it self.
  - /export: export group data, can be done anytime.
 """,
 	"*Data yang tidak dapat di import*": "*Data which can't be imported*",
