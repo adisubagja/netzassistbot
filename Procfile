@@ -1,1 +1,1 @@
-worker: python3 -m fortizers
+worker: python3 -m netzassist
